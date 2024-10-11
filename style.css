@@ -1,0 +1,175 @@
+*{
+    padding: 0;
+    margin: 0;
+     background-color: blanchedalmond; 
+    
+} 
+
+
+
+.scholarship  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.file{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.space {
+    
+    text-align: center;
+}
+
+.space-input {
+    width: 30px;
+}
+
+.first {
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box; 
+    
+}
+
+.first-n{
+    margin-right: 245px;
+    font-size: 20px;
+}
+
+.second {
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box; 
+    
+    
+}
+
+.last{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box; 
+}
+
+.LGA{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+.NOF{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+.Denomination{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+.Email{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+.phone{
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    padding: 10px; 
+    box-sizing: border-box;
+}
+
+.submit{
+
+    width: 350px;
+    height: 25px;
+    font-size: 17px;
+    border-radius: 15px;
+    font-weight: 500;
+    /* padding: 10px;  */
+    box-sizing: border-box;
+}
+
+.submit:hover{
+    transition: .8s ease-in-out;
+    background: black;
+    color: bisque;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 600px) {
+  form {
+    padding: 0.5rem;
+  }
+  input, textarea, select {
+    font-size: 0.9rem; /* Adjust text size on smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  form {
+    padding: 0.25rem;
+  }
+  input, textarea, select {
+    font-size: 0.8rem;
+  }
+}
+
+
+
+/* 
+
+@media  (min-width: 600px) {
+    
+}  */
