@@ -1,0 +1,75 @@
+*{
+  padding: auto;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+  /* background-color: rgba(235, 162, 83, 0.904); */
+  /* background: linear-gradient(#f44336, #730228); */
+}
+
+.btn {
+  margin-top: 250px;
+  font-weight: 600;
+  font-family: sans-serif;
+  height: 30px;
+  border-radius: 30px;
+  cursor: pointer;
+  border: none;
+  background: navy;
+  color: white;
+}
+
+/* 
+.btn :hover {
+   transform: scale(1) translateY(0);
+    opacity: 1;
+background-color: #730228;
+/* transform: scale(1.05); */
+/* opacity: 1; */
+
+
+
+:hover {
+    transform: scale(1) translateY(0);
+    opacity: 1;
+    transition: background-color 0.3s; 
+} 
+
+/* 
+.btn {
+    background-color: white; 
+    color: white; 
+    border: none; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}  */
+
+.btn:hover {
+    background-color: black; /* Darker green on hover */
+}
+
+
+{
+
+
+  
+  width: 100%;
+  height: 100vh;
+  background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(/images/EYRN1.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 10px 8px;
+  position: relative;
+}
