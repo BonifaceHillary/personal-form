@@ -1,201 +1,173 @@
-*{
-    padding: 0;
-    margin: 0;
-     /* background-color: darkblue;  */
-      color: white; 
-} 
-
-body{
-    height: 100%;
-    min-width: 100%;
+* {
+  padding: 0;
+  margin: 0;
+  /* background-color: darkblue;  */
+  color: white;
 }
 
-
-
-
-
-.scholarship  {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
+body {
+  height: 100%;
+  min-width: 100%;
 }
 
-.file{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+.scholarship {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.file {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
 }
 
 .space {
-    
-    text-align: center;
+  text-align: center;
 }
 
 .space-input {
-    width: 30px;
+  width: 30px;
 }
 
 .first {
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box; 
-    border: 3px solid goldenrod;
-    background-color: black;
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.first-n{
-    margin-right: 245px;
-    font-size: 20px;
+.first-n {
+  margin-right: 245px;
+  font-size: 20px;
 }
 
 .second {
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box; 
-     border: 3px solid goldenrod;
-    background-color: black;
-    
-    
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.last{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box; 
-     border: 3px solid goldenrod;
-    background-color: black;
+.last {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.LGA{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.LGA {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.NOF{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.NOF {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.Denomination{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.Denomination {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.Email{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.Email {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.phone{
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    padding: 10px; 
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.phone {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  padding: 10px;
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.black{
-    color:  red;
-    font-size: large;
-    font-weight: 1000;
+.black {
+  color: red;
+  font-size: large;
+  font-weight: 1000;
 }
 
-.submit{
-
-    width: 350px;
-    height: 25px;
-    font-size: 17px;
-    border-radius: 15px;
-    font-weight: 500;
-    /* padding: 10px;  */
-    box-sizing: border-box;
-     border: 3px solid goldenrod;
-    background-color: black;
+.submit {
+  width: 350px;
+  height: 25px;
+  font-size: 17px;
+  border-radius: 15px;
+  font-weight: 500;
+  /* padding: 10px;  */
+  box-sizing: border-box;
+  border: 3px solid goldenrod;
+  background-color: black;
 }
 
-.submit:hover{
-    transition: .8s ease-in-out;
-    background: goldenrod;
-    color: bisque;
-    cursor: pointer;
+.submit:hover {
+  transition: 0.8s ease-in-out;
+  background: goldenrod;
+  color: bisque;
+  cursor: pointer;
 }
 
-.upload{
-    cursor: pointer;
+.upload {
+  cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 @media (max-width: 600px) {
   form {
     padding: 0.5rem;
   }
-  input, textarea, select {
-    font-size: 0.9rem; 
+  input,
+  textarea,
+  select {
+    font-size: 0.9rem;
   }
 }
 
@@ -203,10 +175,9 @@ body{
   form {
     padding: 0.25rem;
   }
-  input, textarea, select {
+  input,
+  textarea,
+  select {
     font-size: 0.8rem;
   }
 }
-
-
-
