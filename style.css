@@ -7,7 +7,7 @@
 body {
   height: 100%;
   min-width: 100%;
-  background-image: url(/images/ekureku.png);
+  background-image: url(./images/ekureku.png);
   opacity: 0.8;
   background-size: cover;
   background-position: center;
